@@ -1,1 +1,1 @@
-# Wallpaper-app
+# GST_calculator-app
